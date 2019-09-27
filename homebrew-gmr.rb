@@ -4,8 +4,8 @@
 class HomebrewGmr < Formula
   desc "create git merge request"
   homepage ""
-  url "https://github.com/gsy13213009/homebrew-gmr/archive/v1.0.4.tar.gz"
-  sha256 "fa3dffe4333c9e7ec2d316e5e6310d7c9d75c38f629e6d7bf2e91f05ebe97377"
+  url "https://github.com/gsy13213009/homebrew-shell/archive/v1.0.0.tar.gz"
+  sha256 "825178aae780c606dbb11f4c189ddef355bfeda9113417530a018dfd2b17effe"
 
   # depends_on "cmake" => :build
 
