@@ -6,7 +6,6 @@ class HomebrewGmr < Formula
   homepage ""
   url "https://github.com/gsy13213009/homebrew-gmr/archive/v1.0.0.tar.gz"
   sha256 "105787321e58d5e150fbc55938a8a94ae5396af35f9f232c637b5b405b50e49f"
-  version "1"
 
   # depends_on "cmake" => :build
 
